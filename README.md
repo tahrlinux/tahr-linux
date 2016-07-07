@@ -1,2 +1,2 @@
-# tahr-linux
+# Tahr Linux
 Linux Distro
