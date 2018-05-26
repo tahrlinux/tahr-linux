@@ -1,2 +1,2 @@
 # Tahr Linux
-Linux Distro
+Linux Distro. We are on it!
